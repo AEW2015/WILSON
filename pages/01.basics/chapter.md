@@ -1,12 +1,13 @@
 ---
-title: Basics
+title: 'WILSON Deep Space probe'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
 ### Chapter 1
 
-# Basics
+# WILSON Deep Space Probe
 
-Discover the **basic** principles
+WILSON => Wilson Irradiated Laboratory Sensory Observational Network
